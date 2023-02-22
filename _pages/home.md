@@ -67,8 +67,8 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 
 ## Achievements / Awards
 - Recipient of **Tokyo Tech Tsubame Scholarship** for Doctoral Students from 2023 to 2024. 
-- **Certificate of Appreciation** for my active participation in [Intel AI Academy](https://software.intel.com/content/www/us/en/develop/topics/ai/training.html) and presenting my research work at PyCon (Python Conference).
-- **Certificate of Honor** for designing a website for the annual technological festival held at [CDGI](https://cdgi.edu.in/cdgi.php) (undergrad).
+- **Certificate of Appreciation** for my active participation in [Intel AI Academy](https://software.intel.com/content/www/us/en/develop/topics/ai/training.html) and presenting my research work at PyCon (Python Conference) 2017.
+- **Certificate of Honor** for designing a website for the annual technological festival held at [CDGI](https://cdgi.edu.in/cdgi.php) (undergrad) in 2013.
 
 ## Co-Curricular
 - [Intel’s Student Ambassador](https://software.intel.com/content/www/us/en/develop/community/ambassadors.html) of Artificial Intelligence at Illinois State University in 2016 - 2017.
