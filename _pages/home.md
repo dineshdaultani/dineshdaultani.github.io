@@ -27,11 +27,11 @@ My research interests include Computer Vision, Efficient Deep Learning, Neural A
 - Filed 4 other patents on topics related to azimuth angle and screw inspection using drone images.
 <br /><br />
 
-## Research Projects at Polytechnique Montreal
+## Visiting Researcher at Polytechnique Montreal
 
 - **Efficient Neural Networks**: Design efficient neural network architectures based on binary neural networks and quantization to reduce the matmul operations in neural network under the supervision of Prof. [Jean Pierre David](https://scholar.google.com/citations?user=yVubPz4AAAAJ&hl=en).
 
-## Research Projects at Woven Planet
+## Data Scientist II at Woven Planet
 
 - **Scene Tags Classification**: Design and develop a production model for the classification of scenes for a wide variety of scenarios based on weather, road type, parking, road structures, traffic conditions, intersections, and so on with macro-f1: 0.65 and micro-f1:0.75 for around 100 classes.
 
@@ -39,7 +39,7 @@ My research interests include Computer Vision, Efficient Deep Learning, Neural A
  
 - **Road Marking Recognition**: Developed a production model trained on Japanese/English text images to predict paint on streets/roads for self-driving vehicles using the backbone of the CRNN text recognition model with 99% word accuracy and ~0.2 msec latency on a synthetic dataset.
 
-## Research Projects at Rakuten
+## Computer Vision Researcher at Rakuten (RIT)
 
 - **Continuous Taxonomy Learning**: Develop a lifelong continual learning system for change in the hierarchy of images over time by utilizing recurrent neural networks, GCN, and lifelong learning methods based on hierarchical classification loss functions while baselining the results on Open Images v6 dataset.
 
