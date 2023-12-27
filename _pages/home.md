@@ -17,9 +17,9 @@ My research interests include Computer Vision, Efficient Deep Learning, Neural A
 <br /><br />
 
 ## [Publications](https://scholar.google.com/citations?user=L00iqg4AAAAJ&hl=en)
-- Consolidating separate degradations model via weights fusion and distillation, Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024. [Link](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf)
+- Consolidating separate degradations model via weights fusion and distillation, Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf)], [[Code](https://github.com/dineshdaultani/FusionDistill)]
 - Image classification of degraded images using knowledge distillation and robust data augmentation. (Submitted in a journal)
-- ILIAC: Efficient classification of degraded images using knowledge distillation with cutout data augmentation, Proceedings of Image Processing: Algorithms and Systems Conference, at IS&T Electronic Imaging 2023. [Link](https://library.imaging.org/ei/articles/35/9/IPAS-296)
+- ILIAC: Efficient classification of degraded images using knowledge distillation with cutout data augmentation, Proceedings of Image Processing: Algorithms and Systems Conference, at IS&T Electronic Imaging 2023. [[Paper](https://library.imaging.org/ei/articles/35/9/IPAS-296)]
 <br /><br />
 
 ## [Patents](https://patents.google.com/?inventor=Dinesh+DAULTANI)
