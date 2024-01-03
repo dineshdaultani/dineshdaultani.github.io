@@ -4,28 +4,12 @@ I am currently a Visiting Researcher at Polytechnique Montreal specializing in d
 Previously, I worked at Woven Planet Holdings as a Data Scientist, where I was part of the Self-Driving Recognition/Perception AD/ADAS team from 2021 to 2022. At Woven, I work on research problems related to few-shot object detection, scene tags image classification, and road marking recognition. I worked at Rakuten ([Rakuten Institute of Technology](https://rit.rakuten.co.jp/)  - R&D Dept) as a Research Scientist for 3.5 years, where I used deep learning, machine learning, and reinforcement learning to solve computer vision, finance, cybersecurity, and e-commerce related research problems. In Rakuten, I worked under the supervision of [Bjorn Stenger](https://scholar.google.com/citations?user=plhjgHUAAAAJ&hl=en),  [Bruno Charron](https://scholar.google.co.jp/citations?user=klbU-o4AAAAJ&hl=en), and [Mitsuru Nakazawa](https://scholar.google.com/citations?user=TLQD7yUAAAAJ&hl=ja). During my master's, I worked under the supervision of [Prof. James Wolf](https://www.semanticscholar.org/author/James-R.-Wolf/2543949) for my master's project. 
 <br /><br />
 
-## Research Interests
-My research interests include Computer Vision, Efficient Deep Learning, Neural Architecture Search, and Reinforcement Learning.
-<br /><br />
-
 ## Education
 - Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2024)
 	- Research (Computer Vision): Design efficient neural network using techniques such as knowledge distillation, neural architecture search, and evolutionary algorithms for image classification and object detection
 - Master of Science in Information Systems from [Illinois State University](https://illinoisstate.edu/)
 	- Specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
 - Bachelor of Engineering in Computer Science from RGPV ([CDGI](https://cdgi.edu.in/cdgi.php))
-<br /><br />
-
-## [Publications](https://scholar.google.com/citations?user=L00iqg4AAAAJ&hl=en)
-- Consolidating separate degradations model via weights fusion and distillation, Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf)], [[Code](https://github.com/dineshdaultani/FusionDistill)]
-- Image classification of degraded images using knowledge distillation and robust data augmentation. (Submitted in a journal)
-- ILIAC: Efficient classification of degraded images using knowledge distillation with cutout data augmentation, Proceedings of Image Processing: Algorithms and Systems Conference, at IS&T Electronic Imaging 2023. [[Paper](https://library.imaging.org/ei/articles/35/9/IPAS-296)]
-<br /><br />
-
-## [Patents](https://patents.google.com/?inventor=Dinesh+DAULTANI)
-- **Ensembles optimization using genetic algorithms**: **Dinesh Daultani**, Bruno Charron. Information processing apparatus, method for information processing and program thereof. PCT JP2020/001767, filed on 2020/01/20, granted on 2020/11/27 in JP ([6801149](https://patents.google.com/patent/JP6801149B1/)). Invented a new approach to find the best-optimized combination of weak supervised models by using evolutionary search and tournament selection approach based on weighted metrics
-- **Anomaly detection in cybersecurity**: **Dinesh Daultani**, Bruno Charron. Anomaly detection using user probability. PCT JP2020/037004, filed on 2020/09/29, granted on 2022/06/01 in EPO ([EP4006760A1](https://patents.google.com/patent/EP4006760A1)). Invented a new approach for anomaly detection based on the change in user probabilities using multi-modal neural networks (CNN & LSTM)
-- Filed 4 other patents on topics related to azimuth angle and screw inspection using drone images.
 <br /><br />
 
 ## Visiting Researcher at Polytechnique Montreal
