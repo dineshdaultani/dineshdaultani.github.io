@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Dinesh Daultani"
   avatar           : "/assets/images/dinesh_avatar.jpg"
-  bio              : "Visiting Researcher @ Polytechnique Montreal & PhD Candidate @ Tokyo Tech"
-  location         : "Vancouver, Canada"
+  bio              : "PhD Candidate @ Tokyo Tech"
+  #location         : "Vancouver, Canada"
   #email            : dinesh (dot) daultani (at) gmail.com
   links:
     - label: "Email"
