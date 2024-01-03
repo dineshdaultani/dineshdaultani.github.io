@@ -1,3 +1,9 @@
+---
+permalink: /research/
+title: Research
+author_profile: true
+layout: single
+---
 ## Research Interests
 My research interests include Computer Vision, Efficient Deep Learning, Neural Architecture Search, and Reinforcement Learning.
 <br /><br />
