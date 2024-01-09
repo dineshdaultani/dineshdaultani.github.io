@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 ## Research Interests
-My research interests include Computer Vision, Efficient Deep Learning, Neural Architecture Search, and Reinforcement Learning.
+My research interests include Computer Vision, Efficient Deep Learning, Diffusion Models, and ML Robustness.
 <br /><br />
 
 ## Ph.D. Focus
