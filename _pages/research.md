@@ -5,7 +5,7 @@ author_profile: true
 layout: single
 ---
 ## Research Interests
-My research interests include Computer Vision, Efficient Deep Learning, Diffusion Models, and ML Robustness.
+My research interests include Computer Vision, ML Robustness, Diffusion Models, and Efficient Deep Learning.
 <br /><br />
 
 ## Ph.D. Focus
