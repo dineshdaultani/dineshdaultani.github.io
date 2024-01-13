@@ -6,7 +6,7 @@ Previously, I worked at Woven Planet Holdings as a Data Scientist, where I was p
 <br /><br />
 
 ## Education
-- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2024)
+- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2025)
 	- Research (Computer Vision): Design efficient neural network using techniques such as knowledge distillation, neural architecture search, and evolutionary algorithms for image classification and object detection
 - Master of Science in Information Systems from [Illinois State University](https://illinoisstate.edu/)
 	- Specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
