@@ -30,3 +30,9 @@ My Ph.D. focuses on narrowing the performance gap across diverse computer vision
 - **Azimuth Angle Measurement (Object Detection)**: Dinesh Daultani, Mitsuru Nakazawa, "Information processing device and method", PCT/JP2021/048570, filed on 2021/12/27, granted on 2023/06/07. [[Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023127019)]
 - **Azimuth Angle Measurement (Edge Detection)**: Dinesh Daultani, Mitsuru Nakazawa, "Information processing device and method", PCT/JP2021/048569, filed on 2021/12/27, granted on 2023/06/07. [[Link](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2023127018)]
 
+## Review Activities
+
+| Year       |   Conference / Journal            |
+|------------|-----------------------------------|
+| 2024       | CVPR NTIRE Workshop               |  
+| 2024       | Pattern Recognition Letters       |
