@@ -6,7 +6,7 @@ main:
     url: https://dineshdaultani.github.io/
   - title: "Research"
     url: /research/
-  - title: "Contact"
-    url: /contact/
   - title: "Curriculum Vitae"
     url: /cv/
+  - title: "Posts"
+    url: /posts/
