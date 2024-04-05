@@ -3,7 +3,8 @@ permalink: /research/
 title: Research
 author_profile: true
 layout: single
-toc: true
+categories:
+  - Markup
 ---
 
 ## Research Interests
