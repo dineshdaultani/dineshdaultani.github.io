@@ -35,5 +35,5 @@ My Ph.D. focuses on narrowing the performance gap across diverse computer vision
 
 | Year       |   Conference / Journal            |
 |------------|-----------------------------------|
-| 2024       | CVPR NTIRE Workshop               |  
+| 2024       | <p>CVPR NTIRE Workshop</p>               |  
 | 2024       | Pattern Recognition Letters       |
