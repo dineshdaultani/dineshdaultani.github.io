@@ -3,7 +3,14 @@ permalink: /research/
 title: Research
 author_profile: true
 layout: single
+tags:
+  - content
+  - css
+  - formatting
+  - html
+  - markup
 ---
+
 ## Research Interests
 My research interests include Computer Vision, ML Robustness, Diffusion Models, and Efficient Deep Learning.
 <br /><br />
