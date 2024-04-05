@@ -3,12 +3,6 @@ permalink: /research/
 title: Research
 author_profile: true
 layout: single
-tags:
-  - content
-  - css
-  - formatting
-  - html
-  - markup
 ---
 
 ## Research Interests
