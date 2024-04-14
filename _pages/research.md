@@ -15,10 +15,10 @@ Specifically, computer vision tasks face challenges with image degradation, lead
 My Ph.D. focuses on narrowing the performance gap across diverse computer vision tasks, bridging the disparity between real-world and pristine/clean images.
 
 ## [Publications](https://scholar.google.com/citations?user=L00iqg4AAAAJ&hl=en)
-- Diffusion-Based Adaptation for Classification of Unknown Degraded Images. (Submitted in a conference)
+- Dinesh Daultani, Masayuki Tanaka, Masatoshi Okutomi, Kazuki Endo, "Diffusion-Based Adaptation for Classification of Unknown Degraded Images," IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2024. 
 - Image classification of degraded images using knowledge distillation and robust data augmentation. (Submitted in a journal)
-- Dinesh Daultani, Hugo Larochelle, “Consolidating separate degradations model via weights fusion and distillation,” Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf)], [[Code](https://github.com/dineshdaultani/FusionDistill)]
-- Dinesh Daultani, Masayuki Tanaka, Masatoshi Okutomi, Kazuki Endo, “ILIAC: Efficient classification of degraded images using knowledge distillation with cutout data augmentation,” Proceedings of Image Processing: Algorithms and Systems Conference, at IS&T Electronic Imaging 2023. [[Paper](https://library.imaging.org/ei/articles/35/9/IPAS-296)]
+- Dinesh Daultani, Hugo Larochelle, "Consolidating separate degradations model via weights fusion and distillation," Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf)], [[Code](https://github.com/dineshdaultani/FusionDistill)]
+- Dinesh Daultani, Masayuki Tanaka, Masatoshi Okutomi, Kazuki Endo, "ILIAC: Efficient classification of degraded images using knowledge distillation with cutout data augmentation," Proceedings of Image Processing: Algorithms and Systems Conference, at IS&T Electronic Imaging 2023. [[Paper](https://library.imaging.org/ei/articles/35/9/IPAS-296)]
 <br /><br />
 
 ## [Patents](https://patents.google.com/?inventor=Dinesh+DAULTANI)
