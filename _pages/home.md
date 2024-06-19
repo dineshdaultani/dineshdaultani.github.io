@@ -6,6 +6,7 @@ Previously, I worked at Woven by Toyota as a Data Scientist, where I was part of
 <br /><br />
 
 ## News
+- Jun, 2024, Poster presentation in CVPR Workshop for the paper “Diffusion-Based Adaptation for Classification of Unknown Degraded Images”. [Project Page](http://www.ok.sc.e.titech.ac.jp/res/CNNIR/DiffAUD/)
 - Jan 2024, Oral presentation in WACV Workshop for the paper “Consolidating separate degradations model via weights fusion and distillation”.
 - Jan 2023, Started a research internship at Polytechnique Montreal on the Efficient Neural Network topic for four months.
 - Jan 2023, Oral presentation in Electronic Imaging Symposium for the conference paper titled “ILIAC: Efficient classification of degraded images using knowledge distillation with cutout data augmentation” in San Francisco on 19 Jan 2023.
