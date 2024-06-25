@@ -7,7 +7,7 @@ layout: single
 [**Current CV here**](https://dineshdaultani.github.io/assets/misc/Dinesh_Daultani_Resume.pdf) (last updated in Aug 2022)
 
 ## Education
-- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2025)
+- Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2024)
 	- Research (Computer Vision): Design efficient neural network using techniques such as knowledge distillation, neural architecture search, and evolutionary algorithms for image classification and object detection
 - Master of Science in Information Systems from [Illinois State University](https://illinoisstate.edu/)
 	- Specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
