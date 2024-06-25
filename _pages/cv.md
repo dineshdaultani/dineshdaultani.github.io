@@ -8,7 +8,8 @@ layout: single
 
 ## Education
 - Ph.D. in Systems and Control Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english/) (2021 - 2024)
-	- Research (Computer Vision): Design efficient neural network using techniques such as knowledge distillation, neural architecture search, and evolutionary algorithms for image classification and object detection
+	- Research topics: Computer Vision, Diffusion Models, ML Robustness, Efficient Deep Learning
+	- Thesis: Robust Image Classification Networks against Known and Unknown Degradations
 - Master of Science in Information Systems from [Illinois State University](https://illinoisstate.edu/)
 	- Specialized in Machine Learning, [Web Development](https://illinoisstate.edu/academics/internet-application-development-certificate/), and [System Development](https://illinoisstate.edu/academics/systems-analyst-certificate/).
 - Bachelor of Engineering in Computer Science from RGPV ([CDGI](https://cdgi.edu.in/cdgi.php))
