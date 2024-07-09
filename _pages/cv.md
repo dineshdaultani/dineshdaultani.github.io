@@ -53,7 +53,7 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 
 ## Additional Roles
 - **Technical Interviewer (Woven)**: Part of the hiring team to screen candidates, review code challenges, and conduct technical interviews focusing on computer vision basics and algorithms/data structures coding.
-- **AI Trainer (Rakuten)**: Delivered training on image classification & object detection using convolutional neural networks and fundamentals of ML in Rakuten for 150+ employees dispersed around different Asia-Pacific locations.
+- **AI Trainer (Rakuten)**: Delivered training on image classification & object detection using convolutional neural networks and fundamentals of ML in Rakuten for 200+ employees dispersed around different Asia-Pacific locations.
 - **RL Study Group (Rakuten)**: Founder and organizer of Reinforcement Learning study group and paper reading sessions for Rakuten’s machine learning community employees.
 <br /><br />
 
