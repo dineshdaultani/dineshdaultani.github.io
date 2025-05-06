@@ -58,6 +58,7 @@ Courses: [IT168](https://coursefinder.illinoisstate.edu/it/168/) and [IT150](htt
 <br /><br />
 
 ## Co-Curricular
+- Founded [Neural Nurture](https://www.ntwo.ai/), a research-driven AI startup, focused on advancing innovations in Machine Learning, Computer Vision, and NLP in 2025.
 - [Intel’s Student Ambassador](https://software.intel.com/content/www/us/en/develop/community/ambassadors.html) of Artificial Intelligence at Illinois State University in 2016 - 2017.
 - President and Founder of Machine Learning student interest group under ACM/AITP Society at Illinois State University in 2016 - 2017.
 - President of [Indian Student Association](https://www.facebook.com/ISAATISU/) RSO at Illinois State University in 2016 - 2017.
