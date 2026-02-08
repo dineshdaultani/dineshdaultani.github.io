@@ -6,7 +6,7 @@ layout: single
 ---
 
 ## Research Interests
-My research interests include Computer Vision, ML Robustness, Diffusion Models, and Efficient Deep Learning.
+My research interests include Computer Vision, Natural Language Processing, Recommendation Systems, and ML Robustness.
 <br /><br />
 
 ## Ph.D. Focus
@@ -16,9 +16,9 @@ My Ph.D. focuses on narrowing the performance gap across diverse computer vision
 
 ## [Publications](https://scholar.google.com/citations?user=L00iqg4AAAAJ&hl=en)
 1. <ins>Dinesh Daultani</ins>, Masayuki Tanaka, Masatoshi Okutomi, Kazuki Endo, "Diffusion-Based Adaptation for Classification of Unknown Degraded Images," Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2024. [[Project Page](http://www.ok.sc.e.titech.ac.jp/res/CNNIR/DiffAUD/)], [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/html/Daultani_Diffusion-Based_Adaptation_for_Classification_of_Unknown_Degraded_Images_CVPRW_2024_paper.html)], [[Code](https://github.com/dineshdaultani/DiffAUD)]
-2. Image classification of degraded images using knowledge distillation and robust data augmentation. (Submitted in a journal)
+2. <ins>Dinesh Daultani</ins>, Masayuki Tanaka, Masatoshi Okutomi, Kazuki Endo, Degraded Image Classification using Knowledge Distillation and Robust Data Augmentations, IEICE TRANSACTIONS on Information and Systems 107 (12), 1517-1528. [[Paper](https://globals.ieice.org/en_transactions/information/10.1587/transinf.2024EDP7016/_f)]
 3. <ins>Dinesh Daultani</ins>, Hugo Larochelle, "Consolidating separate degradations model via weights fusion and distillation," Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) Workshops, 2024. [[Paper](https://openaccess.thecvf.com/content/WACV2024W/VAQ/papers/Daultani_Consolidating_Separate_Degradations_Model_via_Weights_Fusion_and_Distillation_WACVW_2024_paper.pdf)], [[Code](https://github.com/dineshdaultani/FusionDistill)]
-4. Aymen-Alaeddine Zeghaida, <ins>Dinesh Daultani</ins>, J.M. Pierre Langlois, Jean Pierre David, "Scalable Low-Complexity Implementation of Constant Matrix Multiplication Circuits," IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS), 2024.
+4. Aymen-Alaeddine Zeghaida, <ins>Dinesh Daultani</ins>, J.M. Pierre Langlois, Jean Pierre David, "Scalable Low-Complexity Implementation of Constant Matrix Multiplication Circuits," IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS), 2024. [[Paper](https://ieeexplore.ieee.org/abstract/document/10658880)]
 5. <ins>Dinesh Daultani</ins>, Masayuki Tanaka, Masatoshi Okutomi, Kazuki Endo, "ILIAC: Efficient classification of degraded images using knowledge distillation with cutout data augmentation," Proceedings of Image Processing: Algorithms and Systems Conference, at IS&T Electronic Imaging 2023. [[Paper](https://library.imaging.org/ei/articles/35/9/IPAS-296)]
 
 ## [Patents](https://patents.google.com/?inventor=Dinesh+DAULTANI)
@@ -32,6 +32,6 @@ My Ph.D. focuses on narrowing the performance gap across diverse computer vision
 <!--- Invented a new approach for anomaly detection based on the change in user probabilities using multi-modal neural networks (CNN & LSTM). ---> 
 
 ## Review Activities
-- 2024 &emsp; CVPR NTIRE Workshop
-- 2024 &emsp; Pattern Recognition Letters
+- 2024 - 2025 &emsp; &nbsp; Pattern Recognition Letters (Journal)
+- 2024 &emsp; &emsp; &emsp; &emsp; CVPR NTIRE Workshop
 
